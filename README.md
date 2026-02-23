@@ -21,3 +21,4 @@ This project presents a high-fidelity biomechanical simulation of Parkinsonian t
 
 ## 🔬 Clinical Significance
 This simulation serves as a digital twin for testing tremor-suppression algorithms and wearable assistive devices (like active orthoses) without the need for initial human trials.
+![Tremor Simulation Preview](opensim_video.webm)
